@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QQ_Z.iml" filepath="$PROJECT_DIR$/.idea/QQ_Z.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dfsd/.idea/dfsd.iml" filepath="$PROJECT_DIR$/../../dfsd/.idea/dfsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../qq_zone/.idea/qq_zone.iml" filepath="$PROJECT_DIR$/../../qq_zone/.idea/qq_zone.iml" />
+    </modules>
+  </component>
+</project>
